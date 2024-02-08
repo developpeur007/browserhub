@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export const Header = () => {
   return (
-    <div className="container px-36 py-6 w-full flex justify-between items-center">
+    <div className=" px-36 py-6 w-full flex justify-between items-center ">
         <div className="logo w-fit">
             <Image src={Logo} width={150} height={70} alt="Logo" />
         </div>

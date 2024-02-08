@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export const Footer = () => {
   return (
-    <div className='container px-36 mt-36 py-16 bg-slate-900'>
+    <div className=' px-36 mt-36 py-16 bg-slate-900 w-full'>
         <div className='flex justify-between items-start'>
             <Image src={Logo} width={40} height={40} alt='Logo'/>
             <div>

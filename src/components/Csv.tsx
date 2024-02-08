@@ -6,7 +6,7 @@ import Data from '../../images/data-export-illustration.2da2d599_1agaoo.webp'
 
 export const Csv = () => {
   return (
-    <div className='container px-36 mt-36 py-8 flex justify-between items-start'>
+    <div className=' px-36 mt-36 py-8 flex justify-between items-start w-full'>
         <div className='w-[50%]'>
             <Image src={Data} width={600} height={600} alt='visuel image' />
         </div>

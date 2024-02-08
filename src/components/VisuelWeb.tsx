@@ -6,7 +6,7 @@ import VisuelImage from '../../images/visual-web-scraping-illustration.38a91cec_
 
 export const VisuelWeb = () => {
   return (
-    <div className='container px-36 mt-36 py-8 flex justify-between items-start'>
+    <div className=' px-36 mt-36 py-8 flex justify-between items-start w-full'>
         <div className='w-[40%]'>
             <h4 className='text-sky-600 font-semibold'>Visual web scraping</h4>
             <h1 className='text-4xl my-5 font-bold'>Build your web scraper in clicks – not codes</h1>

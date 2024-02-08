@@ -6,7 +6,7 @@ import { faCode , faSliders ,faServer } from '@fortawesome/free-solid-svg-icons'
 
 export const Challenge = () => {
   return (
-    <div className='container px-36 mt-36 py-8 '>
+    <div className=' px-36 mt-36 py-8 w-full'>
         <div className='w-[80%] m-auto flex flex-col gap-y-3 text-center'>
             <h3 className='text-red-600 text-lg font-semibold'>The challenge of web scraping</h3>
             <h1 className='text-4xl font-bold text-slate-800'>Making your own web scraper is hard</h1>

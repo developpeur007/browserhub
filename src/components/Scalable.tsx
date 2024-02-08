@@ -4,7 +4,7 @@ import { faCode , faSliders ,faServer, faBolt, faCube, faEarthAmerica, faInbox, 
 
 export const Scalable = () => {
   return (
-    <div className='container px-36 mt-36 py-8 '>
+    <div className=' px-36 mt-36 py-8 w-full'>
         <div className='w-[80%] m-auto flex flex-col gap-y-3 text-center'>
             <h3 className='text-sky-600 text-lg font-semibold'>Scalable infrastructure</h3>
             <h1 className='text-4xl font-bold text-slate-800'>Every infrastructure you need to automate web scraping in the cloud</h1>
